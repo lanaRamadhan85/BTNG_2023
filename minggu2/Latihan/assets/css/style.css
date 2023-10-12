@@ -1,0 +1,54 @@
+body{
+    background-color: cadetblue;
+}
+.judul {
+    color: blue;
+    font-weight: 700;
+    font-family: monospace;
+    font-size: 2rem;
+    text-align: center;
+    text-shadow: 2px 2px salmon;
+}
+p {
+    font-size: 15px;
+    background-color:burlywood;
+    color: white;
+    text-align: justify;
+}
+span{
+    color: red;
+}
+
+
+#judul1{
+    text-align: center;
+    color: aqua;
+}
+.anu{
+    background-color:  cadetblue;
+}
+button a{
+    text-decoration: none;
+    color: black;
+}
+button:hover {
+    background-color: green;
+    color: aliceblue;
+}
+
+.kotak{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+}
+.kotak a{
+    color: white;
+    text-decoration: none;
+    
+}
+.kotak:hover{
+    background-color: purple;
+}
+.kotak:hover > a{
+    color: white;
+}
